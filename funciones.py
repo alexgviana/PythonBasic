@@ -21,7 +21,7 @@ if opcion== 1:
 elif opcion== 2:
     conversacion("Eleigste la opción 2")
 elif opcion==3:
-    conversacion("Eleigste la opción 3")
+    conversacion("Elegiste la opción 3")
 
 else:
     print("Escribe una opción correcta")
